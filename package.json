@@ -4,7 +4,6 @@
   "description": "Node.js express sample",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --recursive --reporter mocha-junit-reporter --timeout 60000 --exit",
     "start": "nodemon index.js"
   },
   "author": "",
